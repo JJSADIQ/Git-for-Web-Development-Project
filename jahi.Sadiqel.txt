@@ -109,3 +109,12 @@
     37. Walk me through Lambda's git flow.
      Fork, Add Collaborators, Clone, Go to Terminal, Use the git clone command, create your own branch, add files, using the touch command, 
 use the git add to make the changes commit ready, use the git command -m  command to save the changes, push your changes, then submit a pull request
+
+    1. What is the difference between an inline element and a block element?
+    Inline elements do not force new lines in the flow. Block elements do cause a line break to occur but they can be changed in CSS. 
+
+    2. What happens when an element is positioned absolutely? 
+    An element positioned in this way will always stay the same
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    You would set its position to absolute 
